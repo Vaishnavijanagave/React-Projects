@@ -1,0 +1,17 @@
+.search{
+    background-color: green;
+    color: azure;
+    display: block;
+    height: 50px;
+    width: 50px;
+    border-radius: 35px;
+    text-align: center;
+    font-size:xx-large;
+   background-position: center;
+   background-size: 28px;
+   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+   margin-right: 19px;
+   margin-left: 90%;
+   margin-top: 70%;
+   cursor: pointer;
+}
